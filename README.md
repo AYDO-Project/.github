@@ -1,14 +1,14 @@
-# AYDO Project public profile
+# AYDO Projects public profile
 
 [profile/README.md](profile/README.md) introduces the organization on its public
 GitHub Overview. The profile describes our purpose, workflow, repository naming,
-and working principles.
+working principles, and contact details.
 
 ## Contents
 
 - `profile/README.md`: public introduction in Indonesian and a Mermaid workflow.
 - `profile/assets/dashboard-header.svg`: banner in the shared AYDO style, with a
-  copper palette for AYDO Project.
+  copper palette for AYDO Projects.
 
 ## Maintenance
 

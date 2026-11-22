@@ -1,12 +1,12 @@
-# AYDO Project
+# AYDO Projects
 
-![AYDO Project: Plan. Build. Deliver.](assets/dashboard-header.svg)
+![AYDO Projects: Plan. Build. Deliver.](assets/dashboard-header.svg)
 
 **Aplikasi web dan situs, dikerjakan satu repository per proyek.**
 
-AYDO Project menyimpan proyek aplikasi dan situs web, dari kebutuhan awal sampai hasil yang siap digunakan. Setiap proyek berjalan di lingkungan pengembangan Docker yang sama, sehingga cara menyiapkan, menjalankan, dan melanjutkan pekerjaan konsisten dari satu proyek ke proyek berikutnya.
+AYDO Projects menyimpan proyek aplikasi dan situs web pribadi, dari kebutuhan awal sampai hasil yang siap digunakan. Setiap proyek berjalan di lingkungan pengembangan Docker yang sama, sehingga cara menyiapkan, menjalankan, dan melanjutkan pekerjaan konsisten dari satu proyek ke proyek berikutnya.
 
-[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip)
+[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip) · [Kontak](#kontak)
 
 ## Pendekatan
 
@@ -36,10 +36,13 @@ Nama repository diawali prefix yang menunjukkan stack proyek.
 | Prefix | Stack |
 | :--- | :--- |
 | `lfm_` | Laravel dengan Filament |
+| `lrv_` | Laravel tanpa Filament |
 | `wcms_` | Winter CMS |
 | `web_` | Situs statis atau non-Laravel |
 
 Situs yang dibangun dari template memakai singkatan template sebagai prefix tambahan, misalnya `wcms_wi_` untuk situs dari template undangan pernikahan. Proyek yang berpindah stack dibuat sebagai repository baru, bukan mengganti nama repository lama. Proyek lama yang tidak lagi dikembangkan di-archive tanpa mengubah namanya.
+
+Proyek freelance dan pesanan klien disimpan terpisah di **[AYDO Works](https://github.com/AYDO-Works)** dengan aturan penamaan yang sama.
 
 ## Prinsip
 
@@ -48,6 +51,18 @@ Situs yang dibangun dari template memakai singkatan template sebagai prefix tamb
 - **Perubahan tercatat.** Kode yang berjalan adalah kode yang di-commit.
 - **Nama menjelaskan isi.** Prefix menunjukkan stack sebelum repository dibuka.
 
+## Kontak
+
+Dikelola oleh **Adi Yudhanegara**.
+
+| Kanal | Alamat |
+| :--- | :--- |
+| Email | [adi.yudhanegaradona@gmail.com](mailto:adi.yudhanegaradona@gmail.com) |
+| WhatsApp | [+62 896-5104-6251](https://wa.me/6289651046251) |
+| LinkedIn | [linkedin.com/in/adiyudhanegara](https://www.linkedin.com/in/adiyudhanegara) |
+| Instagram | [@adiyudhanegara](https://www.instagram.com/adiyudhanegara) |
+| Facebook | [facebook.com/adiyudhanegara](https://www.facebook.com/adiyudhanegara) |
+
 ---
 
-<sub>AYDO Project · Plan. Build. Deliver.</sub>
+<sub>AYDO Projects · Plan. Build. Deliver.</sub>
