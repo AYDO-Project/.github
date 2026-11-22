@@ -6,7 +6,7 @@
 
 AYDO Projects menyimpan proyek aplikasi dan situs web pribadi, dari kebutuhan awal sampai hasil yang siap digunakan. Setiap proyek berjalan di lingkungan pengembangan Docker yang sama, sehingga cara menyiapkan, menjalankan, dan melanjutkan pekerjaan konsisten dari satu proyek ke proyek berikutnya.
 
-[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip) · [Kontak](#kontak)
+[Pendekatan](#pendekatan) · [Alur kerja](#alur-kerja) · [Penamaan](#penamaan) · [Prinsip](#prinsip)
 
 ## Pendekatan
 
@@ -50,18 +50,6 @@ Proyek freelance dan pesanan klien disimpan terpisah di **[AYDO Works](https://g
 - **Lingkungan yang dapat dibuat ulang.** Setiap proyek dapat dijalankan kembali dari repository dan template Docker yang sama.
 - **Perubahan tercatat.** Kode yang berjalan adalah kode yang di-commit.
 - **Nama menjelaskan isi.** Prefix menunjukkan stack sebelum repository dibuka.
-
-## Kontak
-
-Dikelola oleh **Adi Yudhanegara**.
-
-| Kanal | Alamat |
-| :--- | :--- |
-| Email | [adi.yudhanegaradona@gmail.com](mailto:adi.yudhanegaradona@gmail.com) |
-| WhatsApp | [+62 896-5104-6251](https://wa.me/6289651046251) |
-| LinkedIn | [linkedin.com/in/adiyudhanegara](https://www.linkedin.com/in/adiyudhanegara) |
-| Instagram | [@adiyudhanegara](https://www.instagram.com/adiyudhanegara) |
-| Facebook | [facebook.com/adiyudhanegara](https://www.facebook.com/adiyudhanegara) |
 
 ---
 
